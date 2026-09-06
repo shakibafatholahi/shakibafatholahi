@@ -1,5 +1,5 @@
 shakiba fatholahi
-## Hi, I'm Shakiba
+## Hi, I'm Shakiba fatholahi
 
 BSc in Software Engineering, MSc in Artificial Intelligence and Robotics from Ilam University.
 
